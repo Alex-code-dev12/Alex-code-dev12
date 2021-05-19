@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Alex-code-dev12
+- 👀 I’m interested in  en la programacion C++ Csharp
+- 🌱 I’m currently learning GMl Y  diseño Grafico
+- 💞️ I’m looking to collaborate on  Diseño Grafico  o Progemacion de Video Juegos
+- 📫 How to reach me  comenta en Git Hub
